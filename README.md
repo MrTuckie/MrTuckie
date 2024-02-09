@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more about System Design;
 - 🤔 I’m looking for help with Django;
 - 📫 How to reach me: arthur@lorencini.tech;
-- 🦾 You can see my résumé [https://lorencini.tech/resume](here);
+- 🦾 You can see my résumé [https://lorencini.tech/](here);
 - 😆 Fun fact: I started my programming path with Arduino and C. 
 
 🇧🇷
@@ -13,5 +13,5 @@
 - 🌱 Estou aprendendo mais sobre Design de Sistemas;
 - 🤔 Estou procurando ajuda com Django;
 - 📫 Mande um alô para: arthur@lorencini.tech
-- 🦾 Você pode encontrar meu currículo aqui: [https://lorencini.tech/resume](here)
+- 🦾 Você pode encontrar meu currículo aqui: [https://lorencini.tech/](here)
 - 😆 Fato interessante: Comecei a minha carreira em programação com Arduino e C. 
